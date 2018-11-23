@@ -9,7 +9,6 @@ https://www.amazon.com/Xamarin-Mobile-Application-Development-Android/dp/1785280
 
 https://docs.microsoft.com/en-us/xamarin/android/get-started/installation/windows
 
-<<<<<<< HEAD
 ## Package Index
 
 https://developer.android.com/reference/packages.html
@@ -39,4 +38,4 @@ https://www.genymotion.com
 ## Xamarin API Reference
 
 https://developer.xamarin.com/api/
->>>>>>> 5c27a305395bb68f3ebe71be16ab5665068b4e7b
+
