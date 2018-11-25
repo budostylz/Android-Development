@@ -33,7 +33,7 @@ https://docs.microsoft.com/en-us/xamarin/android/app-fundamentals/android-api-le
 ## Visual Studio Android Emulator
 
 https://docs.microsoft.com/en-us/xamarin/android/deploy-test/debugging/visual-studio-android-emulator
-=======
+
 ## GenyMotion
 
 https://www.genymotion.com
