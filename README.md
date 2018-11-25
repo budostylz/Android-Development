@@ -1,15 +1,17 @@
 # Android-Development
 
-<<<<<<< HEAD
+## Android API reference
+
+https://developer.android.com/reference/
+
 ## Namespaces
 
 https://developer.xamarin.com/api/root/MonoAndroid-lib/
 
-=======
 ## Java™ Platform, Standard Edition 8 API Specification
 
 https://docs.oracle.com/javase/8/docs/api/overview-summary.html
->>>>>>> 868f6e6479aa43282e1ac0781e61ec41e12c63a2
+
 
 ## Xamarin Mobile Application Development for Android - Second Edition 
 
