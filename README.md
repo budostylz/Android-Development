@@ -1,5 +1,7 @@
 # Android-Development
 
+## Code Samples from Mr. Bruce VanHorn(Software Developer/Trainer)
+
 ## Android API reference
 
 https://developer.android.com/reference/
