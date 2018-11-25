@@ -1,5 +1,8 @@
 # Android-Development
 
+## Java™ Platform, Standard Edition 8 API Specification
+
+https://docs.oracle.com/javase/8/docs/api/overview-summary.html
 
 ## Xamarin Mobile Application Development for Android - Second Edition 
 
@@ -38,4 +41,6 @@ https://www.genymotion.com
 ## Xamarin API Reference
 
 https://developer.xamarin.com/api/
+
+
 
